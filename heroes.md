@@ -9,3 +9,5 @@
 * Volcán Negro
 * Kagami Mendoza
 * Atom
+* Kurosaki
+* GOKU
